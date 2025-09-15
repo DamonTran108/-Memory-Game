@@ -1,0 +1,28 @@
+.pokemon_container{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+}
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+  
+  
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1{
+    margin-bottom: 50px;
+}
